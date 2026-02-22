@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prajwal-Shetty1/Prajwal-Shetty1/main/developer.gif" width="450"/>
+</p>
 
-<!--
-**Prajwal-Shetty1/Prajwal-Shetty1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Hi 👋, I'm Prajwal S Shetty</h2>
 
-Here are some ideas to get you started:
+<h3 align="center">
+🚀 Engineering Student | 💻 Full Stack Developer | 🧠 DSA Learner
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+🎯 Focused on Full Stack Development & Data Structures for 2026 Internships
+</p>
+
+---
+
+## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mongodb,git,github" />
+</p>
+
+---
+
+## 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Shetty1&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Shetty1&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-Shetty1&theme=react-dark"/>
+</p>
