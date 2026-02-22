@@ -5,29 +5,32 @@
 <h2 align="center">Hi 👋, I'm Prajwal S Shetty</h2>
 
 <h3 align="center">
-🚀 Engineering Student | 💻 Full Stack Developer | 🧠 DSA Learner
+  🚀 Engineering Student | 💻 Full Stack Developer | 🧠 DSA Learner
 </h3>
 
 <p align="center">
-🎯 Focused on Full Stack Development & Data Structures | Seeking 2026 Internships and Entry-Level Roles
+  🎯 Focused on Full Stack Development & Data Structures | Seeking 2026 Internships and Entry-Level Roles
 </p>
----
 
-## 🚀 Tech Stack
+<hr/>
+
+<h2>🚀 Tech Stack</h2>
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,mongodb,git,github" />
 </p>
 
----
+<hr/>
 
-## 💻 Programming Languages
+<h2>💻 Programming Languages</h2>
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
----
+<hr/>
 
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prajwal-Shetty1&show_icons=true&theme=radical" />
@@ -37,10 +40,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Shetty1&theme=radical" />
 </p>
 
----
+<hr/>
 
-## 📈 Contribution Graph
+<h2>🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-Shetty1&theme=react-dark"/>
+  <a href="https://www.linkedin.com/in/prajwal-sshetty/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:prajwalshetty7975@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
