@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prajwal-Shetty1/Prajwal-Shetty1/main/developer.gif" width="450"/>
+  <img src="https://raw.githubusercontent.com/Prajwal-Shetty1/Prajwal-Shetty1/main/developer.gif" width="500"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Prajwal S Shetty</h2>
@@ -9,14 +9,13 @@
 </h3>
 
 <p align="center">
-🎯 Focused on Full Stack Development & Data Structures for 2026 Internships
+🎯 Focused on Full Stack Development & Data Structures | Seeking 2026 Internships and Entry-Level Roles
 </p>
-
 ---
 
 ## 🚀 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,html,css,mongodb,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,mongodb,git,github" />
 </p>
 
 ---
