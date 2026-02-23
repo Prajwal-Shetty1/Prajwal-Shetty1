@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prajwal-Shetty1/Prajwal-Shetty1/main/developer.gif" width="500"/>
+  <img src="https://raw.githubusercontent.com/Prajwal-Shetty1/Prajwal-Shetty1/main/developer.gif"/>
 </p>
 
 <h2 align="center">Hi 👋, I'm Prajwal S Shetty</h2>
