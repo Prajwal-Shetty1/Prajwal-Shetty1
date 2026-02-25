@@ -32,9 +32,6 @@
 
 <h2>📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prajwal-Shetty1&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Shetty1&theme=radical" />
