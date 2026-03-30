@@ -30,15 +30,6 @@
 
 <hr/>
 
-<h2>📊 GitHub Stats</h2>
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwal-Shetty1&theme=radical" />
-</p>
-
-<hr/>
-
 <h2>🤝 Let's Connect</h2>
 
 <p align="center">
